@@ -1,0 +1,7 @@
+xmltojson --input "amanxml.xml" --output "amanjson.json"
+
+#or
+
+xmltojson --input "test_projects/amanxml.xml" --output "test_projects/amanjson.json"
+
+#direct run on the terminal
