@@ -1,0 +1,25 @@
+count :3 'RegistrationDumpDetail' object has no attribute '_get_object_result'
+count :1 'ascii' codec can't decode byte 0xe2 in position 43: ordinal not in range
+count :4 'NoneType' object has no attribute 'split'
+count :1 Not a valid number for page
+count :8 u'392'
+count :7 'referrer_corp_email'
+count :6 year=27 is before 1900; the datetime strftime
+count :16 No closing quotation
+count :1 HTTP Error 500: Internal Server Error
+count :16 'ascii' codec can't encode character u'
+count :1 Tried to save duplicate unique keys 
+count :11 invalid literal for int
+count :88 
+count :15 'NoneType' object has no attribute 'encode'
+count :20 coercing to Unicode: need string or buffer
+count :4 list index out of range
+count :2 u'-1'
+count :10 [Errno 2] No such file or directory: u'
+count :1 'ascii' codec can't encode characters in position 51-52: ordinal not in range
+count :4 [u'ManagementForm data is missing or has been tampered with']
+count :1 "'name'
+count :1 global name 'solr_job' is not defined
+count :2 'CandidateStatic' object has no attribute '_signals_data'
+count :48 ValidationError 
+count :1 'NoneType' object has no attribute 'content'

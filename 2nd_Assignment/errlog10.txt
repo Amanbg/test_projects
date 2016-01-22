@@ -1,0 +1,128 @@
+count :2 http://www.shine.com/api/v2/registration-dump/568e0ab0ef499b57b951a250/ 
+	count :2 'RegistrationDumpDetail' object has no attribute '_get_object_result' 
+count :1 http://m.shine.com/myshine/jobs/customer-service-representative-wh/yusen-logistics-india-private-limited/4490969/
+	count :1 'ascii' codec can't encode characters in position 51-52: ordinal not in range(128) 
+count :2 http://www.shine.com/api/v2/candidate/referral/262d169c-9468-40ab-ad01-79b70ed126a1/ 
+	count :2 'referrer_corp_email' 
+count :8 http://mapi.shine.com/api/v2/candidate-profiles/4613745/ 
+	count :8 u'392' 
+count :6 http://www.shine.com/myshine/block_recruiter/ 
+	count :6 'NoneType' object has no attribute 'encode' 
+count :4 http://www.shine.com/myshine/login/
+	count :4 ValidationError
+count :1 http://mapi.shine.com/api/v2/candidate/54bf319af81f4e776ac6d900/resumefiles/54bf31e9b8c5ac7974eb5041/ 
+	count :1 [Errno 2] No such file or directory:
+count :1 http://www.shine.com/api/v2/registration-dump/568dffb52cfcc94b638922ff/ 
+	count :1 'RegistrationDumpDetail' object has no attribute '_get_object_result' 
+count :2 http://www.shine.com/myshine/show_widgets/
+	count :2 'CandidateStatic' object has no attribute '_signals_data' 
+count :1 http://www.shine.com/myshine/edit/p/jobs/ 
+	count :1 ValidationError
+count :4 http://www.shine.com/myshine/registration/details/ 
+	count :4 [u'ManagementForm data is missing or has been tampered with'] 
+count :2 http://m.shine.com/myshine/login/
+	count :2 ValidationError
+count :1 http://mapi.shine.com/api/v2/candidate/54d84ccbd9a4ed06f4543767/resumefiles/54d84df4daffbb26b7d8b6cc/ 
+	count :1 [Errno 2] No such file or directory:
+count :1 http://mapi.shine.com/api/v2/candidate/561370edb75a9346062cd8ea/update-flows/ 
+	count :1 
+count :1 http://www.shine.com/job-search/ 
+	count :1 invalid literal for int() with base 10: '' 
+count :1 http://www.shine.com/job-alerts/create-ajax/ 
+	count :1 "'name'" 
+count :1 http://mapi.shine.com/api/v2/candidate/54d34d56252df43356b64137/resumefiles/54d43444252df43350454466/ 
+	count :1 [Errno 2] No such file or directory:
+count :1 http://www.shine.com/change/password/ 
+	count :1 'NoneType' object has no attribute 'encode' 
+count :2 http://www.shine.com/api/v2/candidate/referral/35332835-9dda-493a-9cda-53ff8c7149a9/ 
+	count :2 'referrer_corp_email' 
+count :1 http://mapi.shine.com/api/v2/candidate/531a17aa7dc3ec0fa5690181/resumefiles/5526260c80cf2c3a1be7cda9/ 
+	count :1 [Errno 2] No such file or directory:
+count :3 http://m.shine.com/myshine/myprofile/ 
+	count :2 list index out of range 
+	count :1 'ascii' codec can't encode character u'\\u2013' in position 4: ordinal not in range(128) 
+count :2 http://www.shine.com/myshine/job-search/simple/hiring-graphic-designer/noida/ 
+	count :2 invalid literal for int() with base 10: '' 
+count :2 http://www.shine.com/myshine/jobs/sr-systems-engineer/pandya-business-solutions/4483953/
+	count :2 No closing quotation 
+count :2 http://mapi.shine.com/api/v2/candidate-profiles/483318/ 
+	count :2 u'-1' 
+count :2 http://m.shine.com/myshine/myprofile/
+	count :2 invalid literal for int() with base 10: '' 
+count :1 http://www.shine.com/myshine/jobs/upload-apply/ 
+	count :1 global name 'solr_job' is not defined 
+count :6 http://www.shine.com/myshine/jobs/4395163/
+	count :6 
+count :1 http://m.shine.com/myshine/home/
+	count :1 'ascii' codec can't encode character u'\\u2013' in position 4: ordinal not in range(128) 
+count :2 http://www.shine.com/myshine/jobs/design-engineer/urs-international/4489547/
+	count :2 No closing quotation 
+count :2 http://www.shine.com/myshine/jobs/srmanagerdgm-corporate-purchase/time-consultants/4490663/
+	count :2 'ascii' codec can't encode character u'\\u2013' in position 45: ordinal not in range(128) 
+count :1 http://m.shine.com/myshine/jobs/hr-manager/faith-services-pvt-ltd/4482773/
+	count :1 'ascii' codec can't encode character u'\\u201c' in position 53: ordinal not in range(128) 
+count :1 http://mapi.shine.com/api/v2/candidate/551cc3d54207583a8ae57848/resumefiles/551cc5262cfcc95a205eadc6/ 
+	count :1 [Errno 2] No such file or directory:
+count :2 http://www.shine.com/api/v2/candidate/referral/4D61129C-3251-4ED5-AA26-47376F12B66E/ 
+	count :2 'referrer_corp_email' 
+count :10 http://m.shine.com/myshine/edit/p/jobs/ 
+	count :10 ValidationError
+count :1 http://m.shine.com/myshine/upload_new_resume/ 
+	count :1 HTTP Error 500: Internal Server Error 
+count :5 http://www.shine.com/linkedin/apply-registration/
+	count :5 ValidationError
+count :1 http://m.shine.com/api/v2/candidate/referral/98682d25-11aa-4c0a-9a4e-e94714279313/ 
+	count :1 'referrer_corp_email' 
+count :1 http://m.shine.com/register/general/ 
+	count :1 Tried to save duplicate unique keys (insertDocument :: caused by :: 11000 E11000 duplicate key error index: sumoplus.CandidateStatic.$e_1  dup key: { : "rajmadlani23@gmail.com" }) 
+count :16 http://www.shine.com/myshine/edit/pd/ 
+	count :16 ValidationError
+count :2 http://m.shine.com/myshine/edit/d/ 
+	count :2 ValidationError
+count :1 http://www.shine.com/job-search/simple/engineering-design-construction/ 
+	count :1 Not a valid number for page. 
+count :1 http://mapi.shine.com/api/v2/candidate/567a334f80cf2c68320c4b7d/resumefiles/ 
+	count :1 'ascii' codec can't decode byte 0xe2 in position 43: ordinal not in range(128) 
+count :6 http://www.shine.com/myshine/edit/d/
+	count :6 year=27 is before 1900; the datetime strftime() methods require year >= 1900 
+count :2 http://www.shine.com/myshine/home/
+	count :2 No closing quotation 
+count :14 http://www.shine.com/myshine/home/ 
+	count :8 'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128) 
+	count :6 No closing quotation 
+count :2 http://mapi.shine.com/api/v2/candidate/52e80ab6d9a4ed118edc4535/resumefiles/54b1f23753941a77bbfd7533/ 
+	count :2 [Errno 2] No such file or directory:
+count :2 http://www.shine.com/myshine/myprofile/ 
+	count :2 list index out of range 
+count :1 http://mapi.shine.com/api/v2/candidate/567a334f80cf2c68320c4b7d/parser-resume-files/ 
+	count :1 'NoneType' object has no attribute 'content' 
+count :1 http://mapi.shine.com/api/v2/candidate/54c8934153941a30c289b916/resumefiles/54c8957ee0d8be5b0389eb38/ 
+	count :1 [Errno 2] No such file or directory:
+count :1 http://m.shine.com/myshine/applyshinejob/
+	count :1 invalid literal for int() with base 10: 'p2rb733fds' 
+count :8 http://www.shine.com/myshine/verifyemail/ 
+	count :8 'NoneType' object has no attribute 'encode' 
+count :4 http://www.shine.com/myshine/ajax/bulk/save/job/ 
+	count :4 'NoneType' object has no attribute 'split' 
+count :1 http://www.shine.com/myshine/jobs/urgent-opening-for-accounts-manager-in-a-leading-real-estate-co/galaxy-resource-pvt-ltd/4482315/
+	count :1 'ascii' codec can't encode character u'\\u2013' in position 107: ordinal not in range(128) 
+count :1 http://m.shine.com/myshine/registration/details/ 
+	count :1 invalid literal for int() with base 10: '' 
+count :2 http://www.shine.com/job-search/simple/draughtsman-autocad-operator-autocad-mechanical-engineer/noida/ 
+	count :2 No closing quotation 
+count :2 http://www.shine.com/myshine/jobs/human-resources-managers-required-in-australia/vmake-visas-pvt-ltd/4488795/
+	count :2 'ascii' codec can't encode character u'\\u25cf' in position 141: ordinal not in range(128) 
+count :8 http://www.shine.com/registration/
+	count :8 ValidationError
+count :4 http://www.shine.com/myshine/jobs/opening-for-sap-warehouse-management/abyss-horizon-consulting-pvt-ltd/4481391/
+	count :4 invalid literal for int() with base 10: '' 
+count :2 http://www.shine.com/salarycheck/ 
+	count :2 No closing quotation 
+count :20 http://www.shine.com/myshine/createresume/download/
+	count :20 coercing to Unicode: need string or buffer, NoneType found 
+count :1 http://mapi.shine.com/api/v2/candidate/568e0937eb64ef171e9a480a/update-flows/ 
+	count :1 
+count :2 http://m.shine.com/myshine/jobs/4395163/
+	count :2 
+count :2 http://mapi.shine.com/api/v2/candidate/5450751bdaffbb17ff342787/resumefiles/5450758f7dc3ec2afb1bcd1b/ 
+	count :2 [Errno 2] No such file or directory:

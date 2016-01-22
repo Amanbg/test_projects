@@ -1,0 +1,194 @@
+http://www.shine.com/api/v2/candidate/referral/35332835-9dda-493a-9cda-53ff8c7149a9/  'referrer_corp_email'  
+http://www.shine.com/api/v2/candidate/referral/35332835-9dda-493a-9cda-53ff8c7149a9/  'referrer_corp_email'  
+http://mapi.shine.com/api/v2/candidate/54c8934153941a30c289b916/resumefiles/54c8957ee0d8be5b0389eb38/  [Errno 2] No such file or directory: 
+http://www.shine.com/job-search/simple/engineering-design-construction/  Not a valid number for page.  
+http://www.shine.com/linkedin/apply-registration/ ValidationError 
+http://mapi.shine.com/api/v2/candidate/561370edb75a9346062cd8ea/update-flows/   
+http://www.shine.com/myshine/registration/details/  [u'ManagementForm data is missing or has been tampered with']  
+http://www.shine.com/myshine/registration/details/  [u'ManagementForm data is missing or has been tampered with']  
+http://mapi.shine.com/api/v2/candidate/551cc3d54207583a8ae57848/resumefiles/551cc5262cfcc95a205eadc6/  [Errno 2] No such file or directory: 
+http://m.shine.com/myshine/jobs/hr-manager/faith-services-pvt-ltd/4482773/ 'ascii' codec can't encode character u'\\u201c' in position 53: ordinal not in range(128)  
+http://mapi.shine.com/api/v2/candidate/567a334f80cf2c68320c4b7d/parser-resume-files/  'NoneType' object has no attribute 'content'  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://mapi.shine.com/api/v2/candidate/567a334f80cf2c68320c4b7d/resumefiles/  'ascii' codec can't decode byte 0xe2 in position 43: ordinal not in range(128)  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://www.shine.com/myshine/jobs/opening-for-sap-warehouse-management/abyss-horizon-consulting-pvt-ltd/4481391/ invalid literal for int() with base 10: ''  
+http://www.shine.com/myshine/jobs/opening-for-sap-warehouse-management/abyss-horizon-consulting-pvt-ltd/4481391/ invalid literal for int() with base 10: ''  
+http://www.shine.com/myshine/jobs/opening-for-sap-warehouse-management/abyss-horizon-consulting-pvt-ltd/4481391/ invalid literal for int() with base 10: ''  
+http://www.shine.com/myshine/jobs/opening-for-sap-warehouse-management/abyss-horizon-consulting-pvt-ltd/4481391/ invalid literal for int() with base 10: ''  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://www.shine.com/myshine/jobs/design-engineer/urs-international/4489547/ No closing quotation  
+http://www.shine.com/myshine/jobs/design-engineer/urs-international/4489547/ No closing quotation  
+http://www.shine.com/myshine/home/  No closing quotation  
+http://www.shine.com/myshine/home/  No closing quotation  
+http://www.shine.com/salarycheck/  No closing quotation  
+http://www.shine.com/salarycheck/  No closing quotation  
+http://www.shine.com/job-search/simple/draughtsman-autocad-operator-autocad-mechanical-engineer/noida/  No closing quotation  
+http://www.shine.com/job-search/simple/draughtsman-autocad-operator-autocad-mechanical-engineer/noida/  No closing quotation  
+http://m.shine.com/myshine/applyshinejob/ invalid literal for int() with base 10: 'p2rb733fds'  
+http://mapi.shine.com/api/v2/candidate-profiles/4613745/  u'392'  
+http://www.shine.com/myshine/jobs/human-resources-managers-required-in-australia/vmake-visas-pvt-ltd/4488795/ 'ascii' codec can't encode character u'\\u25cf' in position 141: ordinal not in range(128)  
+http://www.shine.com/myshine/jobs/human-resources-managers-required-in-australia/vmake-visas-pvt-ltd/4488795/ 'ascii' codec can't encode character u'\\u25cf' in position 141: ordinal not in range(128)  
+http://m.shine.com/myshine/jobs/customer-service-representative-wh/yusen-logistics-india-private-limited/4490969/ 'ascii' codec can't encode characters in position 51-52: ordinal not in range(128)  
+http://www.shine.com/linkedin/apply-registration/ ValidationError 
+http://www.shine.com/myshine/edit/d/ year=27 is before 1900; the datetime strftime() methods require year >= 1900  
+http://www.shine.com/myshine/edit/d/ year=27 is before 1900; the datetime strftime() methods require year >= 1900  
+http://www.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/linkedin/apply-registration/ ValidationError 
+http://mapi.shine.com/api/v2/candidate/54d34d56252df43356b64137/resumefiles/54d43444252df43350454466/  [Errno 2] No such file or directory: 
+http://m.shine.com/myshine/login/ ValidationError 
+http://m.shine.com/myshine/login/ ValidationError 
+http://www.shine.com/api/v2/registration-dump/568dffb52cfcc94b638922ff/  'RegistrationDumpDetail' object has no attribute '_get_object_result'  
+http://www.shine.com/myshine/block_recruiter/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/block_recruiter/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/api/v2/candidate/referral/262d169c-9468-40ab-ad01-79b70ed126a1/  'referrer_corp_email'  
+http://www.shine.com/api/v2/candidate/referral/262d169c-9468-40ab-ad01-79b70ed126a1/  'referrer_corp_email'  
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://www.shine.com/myshine/myprofile/  list index out of range  
+http://www.shine.com/myshine/myprofile/  list index out of range  
+http://m.shine.com/myshine/myprofile/  list index out of range  
+http://m.shine.com/myshine/myprofile/  list index out of range  
+http://www.shine.com/registration/ ValidationError 
+http://www.shine.com/registration/ ValidationError 
+http://www.shine.com/registration/ ValidationError 
+http://www.shine.com/registration/ ValidationError 
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://www.shine.com/api/v2/candidate/referral/4D61129C-3251-4ED5-AA26-47376F12B66E/  'referrer_corp_email'  
+http://www.shine.com/api/v2/candidate/referral/4D61129C-3251-4ED5-AA26-47376F12B66E/  'referrer_corp_email'  
+http://www.shine.com/myshine/jobs/srmanagerdgm-corporate-purchase/time-consultants/4490663/ 'ascii' codec can't encode character u'\\u2013' in position 45: ordinal not in range(128)  
+http://www.shine.com/myshine/jobs/srmanagerdgm-corporate-purchase/time-consultants/4490663/ 'ascii' codec can't encode character u'\\u2013' in position 45: ordinal not in range(128)  
+http://www.shine.com/api/v2/registration-dump/568e0ab0ef499b57b951a250/  'RegistrationDumpDetail' object has no attribute '_get_object_result'  
+http://www.shine.com/api/v2/registration-dump/568e0ab0ef499b57b951a250/  'RegistrationDumpDetail' object has no attribute '_get_object_result'  
+http://mapi.shine.com/api/v2/candidate/568e0937eb64ef171e9a480a/update-flows/   
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://mapi.shine.com/api/v2/candidate/52e80ab6d9a4ed118edc4535/resumefiles/54b1f23753941a77bbfd7533/  [Errno 2] No such file or directory: 
+http://m.shine.com/myshine/home/ 'ascii' codec can't encode character u'\\u2013' in position 4: ordinal not in range(128)  
+http://m.shine.com/myshine/myprofile/  'ascii' codec can't encode character u'\\u2013' in position 4: ordinal not in range(128)  
+http://www.shine.com/myshine/edit/d/ year=27 is before 1900; the datetime strftime() methods require year >= 1900  
+http://www.shine.com/myshine/edit/d/ year=27 is before 1900; the datetime strftime() methods require year >= 1900  
+http://www.shine.com/myshine/edit/d/ year=27 is before 1900; the datetime strftime() methods require year >= 1900  
+http://www.shine.com/myshine/edit/d/ year=27 is before 1900; the datetime strftime() methods require year >= 1900  
+http://mapi.shine.com/api/v2/candidate/52e80ab6d9a4ed118edc4535/resumefiles/54b1f23753941a77bbfd7533/  [Errno 2] No such file or directory: 
+http://mapi.shine.com/api/v2/candidate/531a17aa7dc3ec0fa5690181/resumefiles/5526260c80cf2c3a1be7cda9/  [Errno 2] No such file or directory: 
+http://m.shine.com/myshine/myprofile/ invalid literal for int() with base 10: ''  
+http://www.shine.com/myshine/login/ ValidationError 
+http://www.shine.com/myshine/login/ ValidationError 
+http://www.shine.com/myshine/jobs/upload-apply/  global name 'solr_job' is not defined  
+http://m.shine.com/myshine/myprofile/ invalid literal for int() with base 10: ''  
+http://m.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/jobs/urgent-opening-for-accounts-manager-in-a-leading-real-estate-co/galaxy-resource-pvt-ltd/4482315/ 'ascii' codec can't encode character u'\\u2013' in position 107: ordinal not in range(128)  
+http://www.shine.com/myshine/ajax/bulk/save/job/  'NoneType' object has no attribute 'split'  
+http://www.shine.com/myshine/ajax/bulk/save/job/  'NoneType' object has no attribute 'split'  
+http://www.shine.com/myshine/ajax/bulk/save/job/  'NoneType' object has no attribute 'split'  
+http://www.shine.com/myshine/ajax/bulk/save/job/  'NoneType' object has no attribute 'split'  
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://m.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://www.shine.com/myshine/home/  'ascii' codec can't encode character u'\\u2013' in position 38: ordinal not in range(128)  
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/block_recruiter/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/block_recruiter/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/block_recruiter/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/block_recruiter/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/linkedin/apply-registration/ ValidationError 
+http://www.shine.com/linkedin/apply-registration/ ValidationError 
+http://mapi.shine.com/api/v2/candidate-profiles/483318/  u'-1'  
+http://mapi.shine.com/api/v2/candidate-profiles/483318/  u'-1'  
+http://www.shine.com/myshine/show_widgets/ 'CandidateStatic' object has no attribute '_signals_data'  
+http://www.shine.com/myshine/show_widgets/ 'CandidateStatic' object has no attribute '_signals_data'  
+http://mapi.shine.com/api/v2/candidate/5450751bdaffbb17ff342787/resumefiles/5450758f7dc3ec2afb1bcd1b/  [Errno 2] No such file or directory: 
+http://mapi.shine.com/api/v2/candidate/5450751bdaffbb17ff342787/resumefiles/5450758f7dc3ec2afb1bcd1b/  [Errno 2] No such file or directory: 
+http://mapi.shine.com/api/v2/candidate/54d84ccbd9a4ed06f4543767/resumefiles/54d84df4daffbb26b7d8b6cc/  [Errno 2] No such file or directory: 
+http://m.shine.com/myshine/edit/d/  ValidationError 
+http://m.shine.com/myshine/edit/d/  ValidationError 
+http://www.shine.com/job-alerts/create-ajax/  "'name'"  
+http://www.shine.com/change/password/  'NoneType' object has no attribute 'encode'  
+http://m.shine.com/api/v2/candidate/referral/98682d25-11aa-4c0a-9a4e-e94714279313/  'referrer_corp_email'  
+http://m.shine.com/register/general/  Tried to save duplicate unique keys (insertDocument :: caused by :: 11000 E11000 duplicate key error index: sumoplus.CandidateStatic.$e_1  dup key: { : "rajmadlani23@gmail.com" })  
+http://www.shine.com/myshine/job-search/simple/hiring-graphic-designer/noida/  invalid literal for int() with base 10: ''  
+http://www.shine.com/myshine/job-search/simple/hiring-graphic-designer/noida/  invalid literal for int() with base 10: ''  
+http://www.shine.com/job-search/  invalid literal for int() with base 10: ''  
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/home/ No closing quotation  
+http://www.shine.com/myshine/home/ No closing quotation  
+http://www.shine.com/myshine/home/  No closing quotation  
+http://www.shine.com/myshine/home/  No closing quotation  
+http://www.shine.com/myshine/jobs/sr-systems-engineer/pandya-business-solutions/4483953/ No closing quotation  
+http://www.shine.com/myshine/jobs/sr-systems-engineer/pandya-business-solutions/4483953/ No closing quotation  
+http://www.shine.com/myshine/home/  No closing quotation  
+http://www.shine.com/myshine/home/  No closing quotation  
+http://www.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://m.shine.com/myshine/registration/details/  invalid literal for int() with base 10: ''  
+http://www.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/verifyemail/  'NoneType' object has no attribute 'encode'  
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/edit/pd/  ValidationError 
+http://www.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/myshine/jobs/4395163/  
+http://www.shine.com/myshine/registration/details/  [u'ManagementForm data is missing or has been tampered with']  
+http://www.shine.com/myshine/registration/details/  [u'ManagementForm data is missing or has been tampered with']  
+http://www.shine.com/registration/ ValidationError 
+http://www.shine.com/registration/ ValidationError 
+http://mapi.shine.com/api/v2/candidate/54bf319af81f4e776ac6d900/resumefiles/54bf31e9b8c5ac7974eb5041/  [Errno 2] No such file or directory: 
+http://www.shine.com/registration/ ValidationError 
+http://www.shine.com/registration/ ValidationError 
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://www.shine.com/myshine/createresume/download/ coercing to Unicode: need string or buffer, NoneType found  
+http://m.shine.com/myshine/edit/p/jobs/  ValidationError 
+http://m.shine.com/myshine/upload_new_resume/  HTTP Error 500: Internal Server Error  
+http://www.shine.com/myshine/login/ ValidationError 
+http://www.shine.com/myshine/login/ ValidationError 
