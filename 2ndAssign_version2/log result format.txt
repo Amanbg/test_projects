@@ -1,0 +1,30 @@
+{
+    url: {
+        'GET' : {
+            'referal_url_1' : count,
+            'referal_url_2' : count,
+            'unreferred' : count
+        }
+
+        'POST' : {
+            'referal_url_1' : count,
+            'referal_url_2' : count,
+            'unreferred' : count
+        }
+    }
+
+    url: {
+        'GET' : {
+            'referal_url_1' : count,
+            'referal_url_2' : count,
+            'unreferred' : count
+        }
+
+        'POST' : {
+            'referal_url_1' : count,
+            'referal_url_2' : count,
+            'unreferred' : count
+        }
+    }
+}
+
