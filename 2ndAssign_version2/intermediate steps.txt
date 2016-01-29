@@ -1,0 +1,1 @@
+python logfileread3.py access.log "get myshine.login"

@@ -1,9 +1,11 @@
 from sys import argv
 import re
 # script, filename ,erlog,errcount = argv
-script, filename ,erlog,errcount = argv
+script, filename ,erlog,errcount= argv
+# we will give the url and output should give the total count and their corresponding urls alongwith their counts..
+#example "myshine/logout" 2 www.myshine.com -1 www.myshine.com/login -1 
 
-txt = open (filename,"r")  #open file
+txt = open (filename,"r")  #open file         
 out = open(erlog,'w')      #write file
 
 count = 0
@@ -35,8 +37,6 @@ for line in txt.readlines():
             url_path = m1.group('url_path1')
             #url_path = url_path.split('HTTP')[0]
             url_path = url_path.split('?')[0]
-            url_path = url_path.split('" "Mozilla')[0]
-            output = out.write('{} {} \n'.format(get_path, url_path))
             totalcount += 1
             # prepare get url for 2nd file
             if get_path in errors:
