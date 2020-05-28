@@ -3,7 +3,7 @@ function run_recaptcha(){
      fileref1.textContent = `
           grecaptcha.ready(function() {
                grecaptcha.execute('6LfsIrQUAAAAADX6a1sWsNVLQFKFdoA4_7N4YvdU', {action:'submit'}).then(function(token) {
-                   console.log(token, "i am in token")
+                   console.log(token, "i am in token===>")
                    document.getElementById('ymIframe').contentWindow.postMessage(JSON.stringify({
                          event_code: 'ym-client-event',
                          data: JSON.stringify({
@@ -12,7 +12,7 @@ function run_recaptcha(){
                               data: token
                              }
                          })
-                    }), '*');
+                    }), 'https://app.yellowmessenger.com');
                     return;
                });
           });
@@ -28,7 +28,10 @@ function recaptcha_token () {
 
 if(!window.isListenerSet){
 window.addEventListener('message', function(eventData) {
-    try { 
+    try {
+         console.log(eventData,'eventData==>');
+         if (eventData.origin !== "https://app.yellowmessenger.com")
+         return;
          if(!window.grecaptcha){
             recaptcha_token ();
          }
