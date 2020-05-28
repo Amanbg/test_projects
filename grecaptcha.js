@@ -26,7 +26,7 @@ function recaptcha_token () {
      document.body.appendChild(fileref);
 }
 
-window.addEventListener('message', function(eventData) {
+window.addEventListener('message', function handler(eventData) {
     try { 
          if(!window.grecaptcha){
             recaptcha_token ();
@@ -48,4 +48,5 @@ window.addEventListener('message', function(eventData) {
     } catch (error) {
         return;
     }
-}, {once:true});
+    window.removeEventListener( 'message', 'handler', false );
+}, false);
