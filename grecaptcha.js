@@ -26,10 +26,9 @@ function recaptcha_token () {
      document.body.appendChild(fileref);
 }
 
-if(!window.isListenerSet){
+//if(!window.isListenerSet){
 window.addEventListener('message', function(eventData) {
     try {
-         console.log(eventData,'eventData==>');
          if(!window.grecaptcha){
             recaptcha_token ();
          }
@@ -50,6 +49,6 @@ window.addEventListener('message', function(eventData) {
     } catch (error) {
         return;
     }
-}, false);
-window.isListenerSet=true;
+}, {once:true});
+//window.isListenerSet=true;
 }
