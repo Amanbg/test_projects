@@ -12,7 +12,7 @@ function run_recaptcha(){
                               data: token
                              }
                          })
-                    }), 'https://app.yellowmessenger.com');
+                    }), '*');
                     return;
                });
           });
@@ -30,8 +30,6 @@ if(!window.isListenerSet){
 window.addEventListener('message', function(eventData) {
     try {
          console.log(eventData,'eventData==>');
-         if (eventData.origin !== "https://app.yellowmessenger.com")
-         return;
          if(!window.grecaptcha){
             recaptcha_token ();
          }
