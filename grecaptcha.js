@@ -53,9 +53,10 @@ function recaptcha_token () {
 let isListenerAttached = false;
 function handler(eventData){
          try {
-         if(isListenerAttached) return;
+         window.removeEventListener( 'message', handler, false );
+         //if(isListenerAttached) return;
           
-         isListenerAttached = true;
+         //isListenerAttached = true;
          if(!window.grecaptcha){
             recaptcha_token ();
          }
@@ -67,7 +68,6 @@ function handler(eventData){
             }
             else if (event.event_code === "custom-event" && event.data && event.data.code === "recaptcha"){
                 run_recaptcha();
-                window.removeEventListener( 'message', handler, false );
                 return;
             } 
             else{
