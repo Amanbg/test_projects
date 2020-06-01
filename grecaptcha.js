@@ -50,13 +50,10 @@ function recaptcha_token () {
 //     }
 //     //window.removeEventListener( 'message', 'handler', false );
 // }, false);
-let isListenerAttached = false;
+
 function handler(eventData){
          try {
          window.removeEventListener( 'message', handler, false );
-         //if(isListenerAttached) return;
-          
-         //isListenerAttached = true;
          if(!window.grecaptcha){
             recaptcha_token ();
          }
