@@ -26,8 +26,32 @@ function recaptcha_token () {
      document.body.appendChild(fileref);
 }
 
-window.addEventListener('message', function handler(eventData) {
-    try { 
+// window.addEventListener('message', function handler(eventData) {
+//     try { 
+//          if(!window.grecaptcha){
+//             recaptcha_token ();
+//          }
+//         if (JSON.parse(eventData.data)) {
+//             let event = JSON.parse(eventData.data);
+//              if (event.event_code === "custom-event" && event.data && event.data.code === "live_agent") {
+//                 var newWindow = window.open(event.data.data);
+//                 return;
+//             }
+//             else if (event.event_code === "custom-event" && event.data && event.data.code === "recaptcha"){
+//                 run_recaptcha();
+//                 return;
+//             } 
+//             else{
+//                 return;
+//             }
+//          }
+//     } catch (error) {
+//         return;
+//     }
+//     //window.removeEventListener( 'message', 'handler', false );
+// }, false);
+function handler(eventData){
+         try { 
          if(!window.grecaptcha){
             recaptcha_token ();
          }
@@ -39,6 +63,7 @@ window.addEventListener('message', function handler(eventData) {
             }
             else if (event.event_code === "custom-event" && event.data && event.data.code === "recaptcha"){
                 run_recaptcha();
+                window.removeEventListener( 'message', handler, false );
                 return;
             } 
             else{
@@ -48,5 +73,5 @@ window.addEventListener('message', function handler(eventData) {
     } catch (error) {
         return;
     }
-    window.removeEventListener( 'message', 'handler', false );
-}, false);
+}
+window.addEventListener('message', handler, false)
