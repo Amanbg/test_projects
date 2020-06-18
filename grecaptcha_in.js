@@ -20,7 +20,7 @@ function run_recaptcha(){
 }
 function recaptcha_token () {
      let fileref=document.createElement('script')
-     fileref.setAttribute("src", "https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=6LfsIrQUAAAAADX6a1sWsNVLQFKFdoA4_7N4YvdU" async defer)
+     fileref.setAttribute("src", "https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=6LfsIrQUAAAAADX6a1sWsNVLQFKFdoA4_7N4YvdU")
      document.head.appendChild(fileref);
 }
 var onloadCallback = function() {
