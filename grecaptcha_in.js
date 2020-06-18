@@ -3,6 +3,7 @@ function run_recaptcha(){
      fileref1.textContent = `
           grecaptcha.ready(function() {
                grecaptcha.execute('6LfsIrQUAAAAADX6a1sWsNVLQFKFdoA4_7N4YvdU', {action:'submit'}).then(function(token) {
+                   document.getElementsByClassName("grecaptcha-badge")[0].style.visibility = "hidden";
                    document.getElementById('ymIframe').contentWindow.postMessage(JSON.stringify({
                          event_code: 'ym-client-event',
                          data: JSON.stringify({
